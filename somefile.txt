@@ -1,1 +1,1 @@
-ABCD
+Some text in this some file :)
