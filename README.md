@@ -12,4 +12,8 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+Deployment can be in every website with required functions.
+
 ## How To Contribute
+
+Contribute is a necessary function of this project.
