@@ -17,3 +17,7 @@ Deployment can be in every website with required functions.
 ## How To Contribute
 
 Contribute is a necessary function of this project.
+
+###Copyright
+
+Git.Training.2021
