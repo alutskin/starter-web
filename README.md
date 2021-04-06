@@ -20,4 +20,4 @@ Contribute is a necessary function of this project.
 
 ###Copyright
 
-Git.Training 2021
+Git.Training 2021 Lutskin
