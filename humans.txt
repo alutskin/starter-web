@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Artsiom Lutskin		alutskin@gomel.iba.by	@notwitter
 
 # THANKS
 
