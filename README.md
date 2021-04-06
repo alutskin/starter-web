@@ -16,7 +16,7 @@ Deployment can be in every website with required functions.
 
 ## How To Contribute
 
-Contribute is a necessary function of this project.
+Contribute is a necessary function of this project issue Pull Requests for review.
 
 ###Copyright
 
