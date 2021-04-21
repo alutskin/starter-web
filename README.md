@@ -21,4 +21,4 @@ Contribute is a necessary function of this project issue Pull Requests for revie
 
 ###Copyright
 
-Git.Training.2021
+Git.Training.2021 All rights reserved.
